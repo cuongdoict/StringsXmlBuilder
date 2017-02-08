@@ -1,0 +1,69 @@
+<resources>
+        <!--  !!!  PLEASE TRANSLATE KEEPING THIS FORMAT.  !!!   -->
+        <!--menu string-->
+        <string name="refresh">Refresh</string>
+        <string name="settings">Settings</string>
+        <string name="share">Share this app</string>
+        <!--end menu string-->
+
+        <!--settings-->
+        <string name="prefCat_fb_settings_title">Facebook Settings</string>
+        <string name="prefCat_app_settings_title">App Settings</string>
+        <string name="prefCat_app_information_title">App Information</string>
+        <string name="title_recentNewsFirst">Order the news feed by most recent</string>
+        <string name="summary_recentNewsFirst">Instead of by top stories</string>
+        <string name="title_centerTextPosts">Center the posts text</string>
+        <string name="summary_centerTextPosts">The text of each post will be centered</string>
+        <string name="summary_addSpaceBetweenPosts">There will be more space between posts</string>
+        <string name="title_addSpaceBetweenPosts">More space between posts</string>
+        <string name="title_fixedBar">Fixed top bar</string>
+        <string name="summary_fixedBar">The blue bar will remain stuck on the top.</string>
+        <string name="title_hideSponsoredPosts">Don\'t show sponsored posts</string>
+        <string name="summary_hideSponsoredPosts">Some sponsored posts will be hidden</string>
+        <string name="title_downloadImages">Save Data </string>
+        <string name="summary_downloadImages">Don\'t download images</string>
+        <string name="summary_allowGeolocation">Facebook will be able to access to your position</string>
+        <string name="title_allowGeolocation">Allow the use of GPS</string>
+        <string name="version">Version</string>
+        <string name="credits">Credits</string>
+        <string name="donateToContribute">I chose to do it for free. Can you offer me a coffee?</string>
+        <!--end settings-->
+
+        <!--page error-->
+        <string name="titleNoConnection">Oops, there is a problem!</string>
+        <string name="descriptionNoConnection">Try to check the connection and refresh.</string>
+        <string name="awards">This is an Open Source app.</string>
+        <!--end page error-->
+
+        <!--other-->
+        <string name="thanks">Thanks!</string>
+        <string name="shareThisLink">Share this link</string>
+        <string name="exit">Exit</string>
+        <string name="downloadThisApp" translatable="false">Download Facebook Mini at https://play.google.com/store/apps/details?id=com.facebookmini.app</string>
+        <string name="noPersonalInformationAreShared">No personal or private information about you or your device is collected or transmitted by this app !</string>
+        <string name="applyingChanges">Applying changes!</string>
+        <string name="title_textSize">Text Size</string>
+        <string name="title_enableFastShare">Enable Fast Share</string>
+        <string name="summary_enableFastShare">With Fast Share you can share any link simply tapping and holding it</string>
+        <string name="summary_textSize">Choose the text size that you prefer</string>
+        <string name="refreshToApply">Refresh Facebook to apply the changes</string>
+        <string name="title_translate">Would you translate this app?</string>
+        <string name="summary_translate">Use my WebTool: tap here, select the language that you know, generate the builder, correct errors, generate and send me the \'strings.xml\' file by email</string>
+        <string name="title_removeMessengerDownload">Remove \'Download Messenger\' messages</string>
+        <string name="summary_removeMessengerDownload">The ads with \'Install Messenger\' will be hidden</string>
+        <string name="supportMe">Support me</string>
+        <string name="donateWithPayPal">Donate with PayPal</string>
+        <string name="messages">Messages</string>
+        <string name="close">Close </string>
+        <string name="acceptPermissionAndRetry">Accept permissions and retry!</string>
+        <string name="yes">Yes</string>
+        <string name="downloadingPhoto">Downloading photo!</string>
+        <string name="askDownloadPhoto">Download photo?</string>
+        <string name="holdImageToDownload">Hold the image to download!</string>
+        <string name="title_rate">Rate this app with 5 stars</string>
+        <string name="summary_rate">You can support me writing 5 stars review in the PlayStore. Please if something doesn\'t work, contact me before write a bad review</string>
+        <string name="title_enableMessagesShortcut">Enable messages shortcut</string>
+        <string name="summary_enableMessagesShortcut">Enabling this, the Facebook Mini messages tab will open when you tap on Facebook messages icon</string>
+        <string name="title_useSlimSocialSubfolderToDownloadedFiles">Use \"FaceMini\" subfolder</string>
+        <string name="summary_useSlimSocialSubfolderToDownloadedFiles">Save images in a subfolder rather than in the folder \"Downloads\"</string>
+</resources>
